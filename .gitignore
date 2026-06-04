@@ -1,0 +1,26 @@
+# Keil uVision 用户特定文件（每个人不同，不应提交）
+*.uvgui.*
+*.uvopt
+
+# 编译产物
+*.hex
+*.obj
+*.lst
+*.m51
+*.lnp
+*.plg
+*.build_log.htm
+*.bak
+*.dep
+
+# 不相关文件
+changde_food_search.png
+
+# IDE / 系统文件
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
